@@ -1,0 +1,6 @@
+﻿.venv/
+.pixi/
+__pycache__/
+*.pyc
+.vscode/
+build_preview.py
